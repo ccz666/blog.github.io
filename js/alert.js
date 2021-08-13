@@ -1,1 +1,1 @@
-alert("helloworld");
+alert("Get out of my head!");
